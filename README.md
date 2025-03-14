@@ -1,2 +1,2 @@
 # SQL_Module_Advanced
-SQL Advanced Module tasks
+There are several sample of my SQL tasks and requests at the Advanced Module/
